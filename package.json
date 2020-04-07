@@ -1,8 +1,8 @@
 {
-  "name": "app.sysdomotic.com.br",
+  "name": "es6-examples",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "My Package Sysdomotic",
+  "description": "Rocketseat course examples",
   "author": "Sysdomotic.cc",
   "license": "MIT",
   "devDependencies": {
